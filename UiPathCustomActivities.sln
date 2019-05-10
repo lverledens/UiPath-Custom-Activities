@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrollActivity", "ScrollActivity\ScrollActivity.csproj", "{567D8A13-252A-4D22-8B6F-D732C101D821}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LDAP Authenticator", "LDAP Authenticator\LDAP Authenticator.csproj", "{7F76550A-A17F-464E-AA64-822B3B6CE09C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{567D8A13-252A-4D22-8B6F-D732C101D821}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{567D8A13-252A-4D22-8B6F-D732C101D821}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{567D8A13-252A-4D22-8B6F-D732C101D821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F76550A-A17F-464E-AA64-822B3B6CE09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F76550A-A17F-464E-AA64-822B3B6CE09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F76550A-A17F-464E-AA64-822B3B6CE09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F76550A-A17F-464E-AA64-822B3B6CE09C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
